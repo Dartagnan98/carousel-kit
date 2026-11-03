@@ -1,0 +1,12 @@
+{
+  "name": "carousel-kit",
+  "private": true,
+  "type": "module",
+  "description": "Locked-design Instagram carousels (clay figure and tweet cards) for Claude Code",
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
